@@ -45,7 +45,7 @@ QUICK START
 ===========
 
 Clone the repository:
-git clone https://github.com/YOUR-USERNAME/ITP-CPP-Course.git
+git clone https://github.com/deepakvalmani/Intro-to-Programming/
 cd ITP-CPP-Course
 
 Navigate to any week:

@@ -8,17 +8,17 @@ This repository contains 11 weeks of C++ programming materials, organized progre
 
 ### Weekly Breakdown
 
-✅ **[Week 1: Introduction to C++ Basics](week-01/README.md)** - 8 programs
-✅ **[Week 2: Operators and Conditionals](week-02/README.md)** - 17 programs
-✅ **[Week 3: Loops and Iteration](week-03/README.md)** - 33 programs
-✅ **[Week 4: Functions](week-04/README.md)** - 26 programs
-✅ **[Week 5: Arrays](week-05/README.md)** - 19 programs
-✅ **[Week 6: Vectors and Dynamic Arrays](week-06/README.md)** - 10 programs
-✅ **[Week 7: Strings and Characters](week-07/README.md)** - 7 programs
-✅ **[Week 8: Pointers and References](week-08/README.md)** - 5 programs
-✅ **[Week 9: Structures and User-Defined Types](week-09/README.md)** - 3 programs
-📝 **[Week 10: Advanced Topics](week-10/README.md)** - 0 programs
-✅ **[Week 11: Practice and Review](week-11/README.md)** - 4 programs
+✅ **[Week 1: Introduction to C++ Basics](week-01/README.md)** - 8 programs 
+✅ **[Week 2: Operators and Conditionals](week-02/README.md)** - 17 programs 
+✅ **[Week 3: Loops and Iteration](week-03/README.md)** - 33 programs 
+✅ **[Week 4: Functions](week-04/README.md)** - 26 programs 
+✅ **[Week 5: Arrays](week-05/README.md)** - 19 programs 
+✅ **[Week 6: Vectors and Dynamic Arrays](week-06/README.md)** - 10 programs 
+✅ **[Week 7: Strings and Characters](week-07/README.md)** - 7 programs 
+✅ **[Week 8: Pointers and References](week-08/README.md)** - 5 programs 
+✅ **[Week 9: Structures and User-Defined Types](week-09/README.md)** - 3 programs 
+📝 **[Week 10: Advanced Topics](week-10/README.md)** - 0 programs 
+✅ **[Week 11: Practice and Review](week-11/README.md)** - 4 programs 
 
 **Total Programs: 132**
 

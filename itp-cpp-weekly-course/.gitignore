@@ -1,0 +1,19 @@
+# Compiled files
+*.o
+*.exe
+*.out
+a.out
+
+# IDE files
+.vscode/
+.idea/
+*.cbp
+*.layout
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.swp
+*.tmp
